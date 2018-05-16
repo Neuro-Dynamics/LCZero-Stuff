@@ -4,10 +4,10 @@ Tools for working with the  LCZero project
 # LCZero Hybrid Nets
 
 Brain experiment #31415926
-May 15, 2018: The surgery has been completed, the patient is soon to wake up from her slumber. I will plug her into the client software... IT'S ALIVE!!!
+May 15, 2018: I have completed the surgery, the patient is soon to wake up from her slumber. I will plug her into the client software... IT'S ALIVE!!!
 
-The experiment consisted of taking two LCZ nets and just transplant the weight values from one to the other. In our case the first transplant involved copying the Value Head + Conv of LCZ ID237 into LCZ ID296.
-After testing, the hybrid 237Val-296Pol was stronger than either net, surprisingly proving this kind of brain surgery was possible. 
+The experiment consisted of taking two LCZ nets and just transplanting the weight values from one to the other. In this case the first transplant involved copying the Value Head + Conv of LCZ ID237 into LCZ ID296.
+After testing, the hybrid 237Val-296Pol was considerably stronger than both *parent* nets, surprisingly proving this kind of brain surgery was possible. 
 
 ## Download some hybrid nets for testing
 
