@@ -28,13 +28,13 @@ After testing, the hybrid 237Val-296Pol was considerably stronger than both *par
 
 ### Tournament Results: LCZero nets 1knodes plus Stockfish9 100knodes
 
-    PLAYER            :  RATING  POINTS  PLAYED   (%)    W    D    L  D(%)
+    PLAYER              :  RATING  POINTS  PLAYED   (%)    W    D    L  D(%)
     1 SF9 100kn         :    79.3    65.5      96    68   49   33   14    34
     2 Hybrid 237_296 1kn:     0.0    52.0      96    54   31   42   23    44
     3 237 1kn           :   -74.2    39.0      96    41   21   36   39    38
     4 296 1kn           :   -94.7    35.5      96    37   19   33   44    34
 
-    Hybrid 237_296 1kn  0.0 :     96 (+31,=42,-23),  54.2 %
+    Hybrid 237_296 1kn    :     96 (+31,=42,-23),  54.2 %
     vs.                   :  games (  +,  =,  -),   (%) :    Diff
     SF9 100kn             :     32 (  5, 13, 14),  35.9 :   -79.3
     237 1kn               :     32 ( 11, 16,  5),  59.4 :   +74.2
