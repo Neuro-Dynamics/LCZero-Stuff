@@ -11,7 +11,7 @@ After testing, the hybrid 237Val-296Pol was considerably stronger than both *par
 
 ## Policy Head (1 node) Test Results
 
-```Score of lczero ID296 vs lczero ID237: 85 - 41 - 74 [0.610]
+`Score of lczero ID296 vs lczero ID237: 85 - 41 - 74 [0.610]
 Elo difference: 77.71 +/- 38.72
 
 200 of 200 games finished.
@@ -24,11 +24,11 @@ Elo difference: 98.07 +/- 39.11
 Score of lczero Hybrid237_296 vs lczero ID296: 69 - 68 - 63 [0.502]
 Elo difference: 1.74 +/- 39.97
 
-200 of 200 games finished.```
+200 of 200 games finished.`
 
 ### Tournament Results: LCZero nets 1knodes plus Stockfish9 100knodes
 
-   ```# PLAYER            :  RATING  POINTS  PLAYED   (%)    W    D    L  D(%)
+   `# PLAYER            :  RATING  POINTS  PLAYED   (%)    W    D    L  D(%)
    1 SF9 100kn         :    79.3    65.5      96    68   49   33   14    34
    2 Hybrid 237_296 1kn:     0.0    52.0      96    54   31   42   23    44
    3 237 1kn           :   -74.2    39.0      96    41   21   36   39    38
@@ -39,7 +39,7 @@ Elo difference: 1.74 +/- 39.97
    vs.                   :  games (  +,  =,  -),   (%) :    Diff
    SF9 100kn             :     32 (  5, 13, 14),  35.9 :   -79.3
    237 1kn               :     32 ( 11, 16,  5),  59.4 :   +74.2
-   296 1kn               :     32 ( 15, 13,  4),  67.2 :   +94.7```
+   296 1kn               :     32 ( 15, 13,  4),  67.2 :   +94.7`
 
 ### Download some hybrid nets for testing
 
