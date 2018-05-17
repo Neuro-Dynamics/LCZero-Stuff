@@ -98,4 +98,4 @@ for i in range(0, len(value1) ):
 fileOut.close()    
 
 print("\r")
-print("Surgery Complete! Good luck...")
+print("Surgery Complete! " + frankenFile + " is ready. Good luck...")
