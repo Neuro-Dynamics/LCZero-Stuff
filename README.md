@@ -50,6 +50,6 @@ https://drive.google.com/file/d/1C0ucCHi3gnh73CLTJyHlUpMrzXgI8SF-/view?usp=shari
 
 ## LC Brain Surgeon
 
-This is a simple Python script that will take two nets and interpolate their Residual, Policy and Value nets independently using a linear interpolation value. This is more abitious and complex than the simple transplantation of the original experiment, and has not yet been tested out.
+This is a simple Python script that will take two nets and interpolate their Residual, Policy and Value nets independently using a linear interpolation value. This is more ambitious and complex than the simple transplantation of the original experiment, and has not yet been tested out.
 
 Have fun!
