@@ -42,11 +42,20 @@ After testing, the hybrid 237Val-296Pol was considerably stronger than both *par
 
 ### Download some hybrid nets for testing
 
-**237Val-296Pol**
+**296Pol-237Val**
 https://drive.google.com/file/d/1-mR7utYALJ3y1nTq0yxiUwcequnqFwba/view?usp=sharing
 
-**237Val-302Pol**  *(via Francis on discord)* 
+**302Pol-237Val**  *(via Francis on discord)* 
 https://drive.google.com/file/d/1C0ucCHi3gnh73CLTJyHlUpMrzXgI8SF-/view?usp=sharing
+
+**306Pol-237Val**
+https://drive.google.com/open?id=1Wf3I5YR7XOVPGM7dYRtxY5AkFSE9CRSC
+
+**306Pol-253Val**
+https://drive.google.com/open?id=1mT93e7eOWP41STrT9FG-b7sjiHPA29s7
+
+**310Pol-237Val**
+https://drive.google.com/open?id=1RHb8-FeTA-oLAQ-gejIDnZKvNDnUlHEl
 
 ## LC Brain Surgeon
 
