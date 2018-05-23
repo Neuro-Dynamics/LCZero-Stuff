@@ -1,7 +1,4 @@
-# LCZero-Tools
-Tools for working with the  LCZero project
-
-## LCZero Hybrid Nets
+# LCZero Hybrid Nets
 
 Brain experiment #31415926
 May 15, 2018: I have completed the surgery, the patient is soon to wake up from her slumber. I will plug her into the client software... IT'S ALIVE!!!
