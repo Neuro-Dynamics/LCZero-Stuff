@@ -12,7 +12,7 @@ For these tests a series of human games were evaluated at each position (both wh
 
 These kind of tests are possibly better than Elo tests, and can be performed at a higher depth much faster.
 
-## Evaluation test (Value Head): SF9 eval vs LC0 eval
+## Evaluation test (possibly Value Head): SF9 eval vs LC0 eval
 
 For each position in each game, the evaluations from SF9 and lc0 were recorded.
 
@@ -20,7 +20,7 @@ Below is a plot of the negative absolute difference between the the evaluations 
 
 <img src="https://raw.githubusercontent.com/Neurodynasoft/LCZero-Tools/master/EvaluationTests/EvalComparison.png"  alt=""   style="float: left; margin-right: 10px;" />
 
-## Move Test (Overall): SF9 moves vs LC0 moves
+## Move Test (Overall Strength/Accuracy): SF9 moves vs LC0 moves
 
 *IN PROGRESS...*
 
