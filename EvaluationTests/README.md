@@ -10,7 +10,7 @@ For these tests a series of human games were evaluated at each position (both wh
 - Various networks (weight files)
 - Nodes: 10k
 
-These kind of tests are possibly better than Elo tests, and can be performed at a higher depth much faster.
+This kind of testing is possibly better than Elo tests, and can be performed at a higher depth much faster.
 
 ## Evaluation test (possibly Value Head): SF9 eval vs LC0 eval
 
