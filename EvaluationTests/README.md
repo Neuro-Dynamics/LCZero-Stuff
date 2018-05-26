@@ -1,6 +1,6 @@
 # Position and Move analysis and comparison
 
-For these tests a series of human games were evaluated at each position (both white and black) by Stockfish 9 and by LCZero using different neural networks.
+For these tests, a series of human games were evaluated at each position (both white and black) by Stockfish 9 and by LCZero using different neural networks.
 
 **Stockfish 9 64 bit**
 - Depth: 24
