@@ -16,7 +16,7 @@ This kind of testing is possibly better than Elo tests, and can be performed at 
 
 For each position in each game, the evaluations from SF9 and lc0 were recorded.
 
-Below is a plot of the negative absolute difference between the the evaluations from the two engines. A mean closer to zero (higher up the graph) approximates SF9 more closely, which is desirable at this stage in LCZero development. Also a standard deviation closer to zero is desirable because it implies more consistency (lower variance).
+Below is a plot of the negative absolute difference between the evaluations from the two engines. A mean closer to zero (higher up the graph) approximates SF9 more closely, which is desirable at this stage in LCZero development. Also a standard deviation closer to zero is desirable because it implies more consistency (lower variance).
 
 <img src="https://raw.githubusercontent.com/Neurodynasoft/LCZero-Tools/master/EvaluationTests/EvalComparison.png"  alt=""   style="float: left; margin-right: 10px;" />
 
