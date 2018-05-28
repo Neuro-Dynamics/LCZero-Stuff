@@ -27,3 +27,5 @@ For each position in each game, lc0 and SF9 pick the best moves. Then both moves
 <img src="https://raw.githubusercontent.com/Neurodynasoft/LCZero-Tools/master/EvaluationTests/MoveComparison.png"  alt=""   style="float: left; margin-right: 10px;" />
 
 ## Depth 1 Test (Policy Head): SF9 moves vs LC0 moves at depth=1
+
+Coming soon...
