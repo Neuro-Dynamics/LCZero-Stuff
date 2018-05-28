@@ -22,6 +22,6 @@ Below is a plot of the negative absolute difference between the evaluations from
 
 ## Move Test (Overall Strength/Accuracy): SF9 moves vs LC0 moves
 
-*IN PROGRESS...*
+<img src="https://raw.githubusercontent.com/Neurodynasoft/LCZero-Tools/master/EvaluationTests/MoveComparison.png"  alt=""   style="float: left; margin-right: 10px;" />
 
 ## Depth 1 Test (Policy Head): SF9 moves vs LC0 moves at depth=1
