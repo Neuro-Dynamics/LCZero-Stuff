@@ -10,6 +10,10 @@ For these tests, a series of human games were evaluated at each position (both w
 - Various networks (weight files)
 - Nodes: 10k
 
+**Source of Games (positions)**
+- 1692 Total Positions
+- Kasparov vs Karpov 1984 World Championship
+
 This kind of testing is possibly better than Elo tests, and can be performed at a higher depth much faster.
 
 ## Evaluation test (possibly Value Head): SF9 eval vs LC0 eval
